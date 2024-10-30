@@ -1,10 +1,6 @@
 ﻿using DesafioPOO.Models;
-
-// TODO: Realizar os testes com as classes Nokia e Iphone
 class program
 {
-
-
     static void Main(string[] args)
     {
         Console.WriteLine("Smartphone: Iphone");
@@ -21,10 +17,6 @@ class program
         n.ReceberLigacao();
         n.InstalarAplicativo("Telegram");
 
-
-    
     }
-
-
 
 }
